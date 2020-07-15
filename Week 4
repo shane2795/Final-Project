@@ -1,0 +1,18 @@
+Introduction/Business Problem
+
+For my capstone project I will be using the Foursquare Api location data to analyse what part of my home city (Dublin, Ireland) would be the best place to open a new
+Italian resturant. This project will be designed from the perspective of trying to convince the stakeholders (owners of resturant) that they should open a new 
+restuarant in Dublin. I will be assuming the owners already have successfull restuarants in other parts of the country and as a result there is no desperate need to 
+open a new restuarant. However, my aim will be to put forward a compelling enough case to prove that there is a gap in the market for a new Italian resturant in Dublin
+and to show the stakeholders that there is good reason to believe that the new restuarant will be a success. 
+
+
+Data
+
+For the purposes of this assignment I will be using the Foursquare Api location data to bring up other resturants (Italian & non-Italian) in the city to first see the
+geographical spread. If there is a part of the city without an Italian restaurant then we should consider that particular location. I will also be using the 
+customer reviews data to see if other resturants in the area have a good reputation, if there's an area without an Italian restuarant but the restuarants in that area
+have really high reviews then it may be tough to convince local consumers to switch - although people would most likely come to the resturant to "try it out", repeat 
+business is what will make the restuarant successfull and if consumers already have a very high opinion of the competition that area may not be suitable.
+On the other hand, if there's an area with Italian restuarants but with average reviews then customers may be willing to consider a new alterative. 
+Finally I will present my finding and offer recommendations based on the results
